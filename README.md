@@ -1,2 +1,2 @@
-# Fallout-NewVegas
-Nothing more than a new vegas appreciation site
+# Junji ito
+Nothing more than a junji ito appreciation site
